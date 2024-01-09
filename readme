@@ -1,1 +1,15 @@
+# backend-intro
+
+https://docs.deno.com/runtime/manual/getting_started/installation
+
+1.
+curl -fsSL https://deno.land/install.sh | sh
+
+2.
+export DENO_INSTALL="/home/codespace/.deno"
+export PATH="$DENO_INSTALL/bin:$PATH"
+
+3.
+deno --version
+
 
